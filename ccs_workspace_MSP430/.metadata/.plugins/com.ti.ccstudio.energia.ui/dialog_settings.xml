@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="/home/saurav/Dropbox/M-Tech/sem-4/EE694_RnD/code/git-repo/Energia_code/sleep_test/sleep_test.ino" key="SketchFileSelectionPage.BROWSE_FILTER"/>
+	<item value="LaunchPad w/ msp430f5529 (25MHz)" key="SketchFileSelectionPage.BOARD"/>
+	<item value="MSP430" key="SketchFileSelectionPage.TARGET"/>
+</section>

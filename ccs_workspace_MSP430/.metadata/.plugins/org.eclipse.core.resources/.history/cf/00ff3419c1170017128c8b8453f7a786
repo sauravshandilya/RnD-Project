@@ -1,0 +1,28 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+./dht22_test_energia17_ino.cpp 
+
+INO_SRCS += \
+../dht22_test_energia17_ino.ino 
+
+OBJS += \
+./dht22_test_energia17_ino.o 
+
+CPP_DEPS += \
+./dht22_test_energia17_ino.d 
+
+CPP_DEPS__QUOTED += \
+"dht22_test_energia17_ino.d" 
+
+OBJS__QUOTED += \
+"dht22_test_energia17_ino.o" 
+
+CPP_SRCS__QUOTED += \
+"./dht22_test_energia17_ino.cpp" \
+"dht22_test_energia17_ino.cpp" 
+
+

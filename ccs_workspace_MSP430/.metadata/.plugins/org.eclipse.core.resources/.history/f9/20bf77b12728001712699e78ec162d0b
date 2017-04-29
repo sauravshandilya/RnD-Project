@@ -1,0 +1,265 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Each subdirectory must supply rules for building sources it contributes
+utility/adc10_b.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc10_b.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/adc12_a.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc12_a.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/adc12_b.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc12_b.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/aes256.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/aes256.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/comp_b.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_b.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/comp_d.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_d.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/comp_e.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_e.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/crc.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/crc.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/cs.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/cs.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/dma.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/dma.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/eusci_a_spi.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_a_spi.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/eusci_a_uart.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_a_uart.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/eusci_b_i2c.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_b_i2c.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/eusci_b_spi.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_b_spi.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/flash.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/flash.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/fram.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/fram.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/gpio.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/gpio.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/mpu.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/mpu.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/mpy32.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/mpy32.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/pmap.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/pmap.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/pmm.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/pmm.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/ram.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ram.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/ref.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ref.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/ref_a.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ref_a.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/rtc_a.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/rtc_a.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/rtc_b.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/rtc_b.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/sfr.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/sfr.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/sys.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/sys.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/timer_a.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/timer_a.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/timer_b.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/timer_b.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/tlv.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/tlv.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/ucs.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ucs.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/usci_a_spi.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_a_spi.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/usci_a_uart.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_a_uart.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/usci_b_i2c.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_b_i2c.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/usci_b_spi.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_b_spi.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+utility/wdt_a.o: /home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/wdt_a.c $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

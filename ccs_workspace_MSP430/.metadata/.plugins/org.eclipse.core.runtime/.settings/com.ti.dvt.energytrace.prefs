@@ -1,0 +1,5 @@
+CellCapacity=2250
+CellType=2xAA
+SaveCSV=true
+TargetVoltage=3300.0
+eclipse.preferences.version=1

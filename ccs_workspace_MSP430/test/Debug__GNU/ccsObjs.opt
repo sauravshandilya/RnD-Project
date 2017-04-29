@@ -1,0 +1,1 @@
+"./my_delay.o" "./my_uart0.o" "./test_uart_with_delay.o" -T"../msp430f5229.ld" -Wl,--start-group -lgcc -lc -Wl,--end-group 

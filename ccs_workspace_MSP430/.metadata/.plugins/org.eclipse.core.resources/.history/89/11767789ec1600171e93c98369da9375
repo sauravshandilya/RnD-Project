@@ -1,0 +1,20 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Each subdirectory must supply rules for building sources it contributes
+dht22_test_energia17_ino.cpp: ../dht22_test_energia17_ino.ino
+	@echo 'Building file: $<'
+	@echo 'Invoking: Resource Custom Build Step'
+	
+	@echo 'Finished building: $<'
+	@echo ' '
+
+%.o: ./%.cpp $(GEN_OPTS) $(GEN_HDRS)
+	@echo 'Building file: $<'
+	@echo 'Invoking: GNU Compiler'
+	"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/bin/msp430-gcc" -c -mmcu=msp430f5529 -DF_CPU=25000000L -DENERGIA=17 -DARDUINO=101 -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/variants/launchpad_f5529" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/cores/msp430" -I"/home/saurav/Dropbox/M-Tech/sem-4/EE694_RnD/code/git-repo/ccs_workspace_MSP430/dht22_test_energia17_ino" -I"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/dht22_430-master" -I"/home/saurav/ti/energia-0101E0017/hardware/tools/msp430/msp430/include" -Os -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -MMD -MP -MF"$(@:%.o=%.d)" -MT"$(@)" -o"$@" $(GEN_OPTS__FLAG) "$(shell echo $<)"
+	@echo 'Finished building: $<'
+	@echo ' '
+
+

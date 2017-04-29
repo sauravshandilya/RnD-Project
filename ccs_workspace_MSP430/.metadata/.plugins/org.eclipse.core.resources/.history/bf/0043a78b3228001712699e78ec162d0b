@@ -1,0 +1,24 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/dht22_430-master/DHT22_430.cpp 
+
+OBJS += \
+./DHT22_430.o 
+
+CPP_DEPS += \
+./DHT22_430.d 
+
+CPP_DEPS__QUOTED += \
+"DHT22_430.d" 
+
+OBJS__QUOTED += \
+"DHT22_430.o" 
+
+CPP_SRCS__QUOTED += \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/dht22_430-master/DHT22_430.cpp" 
+
+

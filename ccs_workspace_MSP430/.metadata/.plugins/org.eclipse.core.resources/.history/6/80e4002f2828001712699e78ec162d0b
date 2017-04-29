@@ -1,0 +1,42 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+./sleep_test.cpp 
+
+INO_SRCS += \
+../sleep_test.ino 
+
+C_SRCS += \
+../my_uart0.c 
+
+OBJS += \
+./my_uart0.o \
+./sleep_test.o 
+
+CPP_DEPS += \
+./sleep_test.d 
+
+C_DEPS += \
+./my_uart0.d 
+
+CPP_DEPS__QUOTED += \
+"sleep_test.d" 
+
+C_DEPS__QUOTED += \
+"my_uart0.d" 
+
+OBJS__QUOTED += \
+"my_uart0.o" \
+"sleep_test.o" 
+
+C_SRCS__QUOTED += \
+"../my_uart0.c" 
+
+CPP_SRCS__QUOTED += \
+"./sleep_test.cpp" \
+"sleep_test.cpp" 
+
+

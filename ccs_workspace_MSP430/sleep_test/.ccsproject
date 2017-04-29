@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<deviceVariant value="MSP430F5529"/>
+	<deviceFamily value="MSP430"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="GNU_4.6.3:MSPGCC"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIMSP430-USB.xml"/>
+	<rts value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<origin value="/home/saurav/Dropbox/M-Tech/sem-4/EE694_RnD/code/git-repo/Energia_code/sleep_test/sleep_test.ino"/>
+	<filesToOpen value="sleep_test.ino,"/>
+</projectOptions>

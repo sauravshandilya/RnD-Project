@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;dht22_test_energia17_ino/header_file&apos; to &apos;header_files&apos;" description="Rename resource &apos;header_file&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="header_file" name="header_files" stamp="1491090180350" updateReferences="true"/>
+</session>

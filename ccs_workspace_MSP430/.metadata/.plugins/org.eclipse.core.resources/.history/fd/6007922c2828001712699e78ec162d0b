@@ -1,0 +1,240 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc10_b.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc12_a.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc12_b.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/aes256.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_b.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_d.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_e.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/crc.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/cs.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/dma.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_a_spi.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_a_uart.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_b_i2c.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_b_spi.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/flash.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/fram.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/gpio.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/mpu.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/mpy32.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/pmap.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/pmm.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ram.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ref.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ref_a.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/rtc_a.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/rtc_b.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/sfr.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/sys.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/timer_a.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/timer_b.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/tlv.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ucs.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_a_spi.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_a_uart.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_b_i2c.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_b_spi.c \
+/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/wdt_a.c 
+
+OBJS += \
+./utility/adc10_b.o \
+./utility/adc12_a.o \
+./utility/adc12_b.o \
+./utility/aes256.o \
+./utility/comp_b.o \
+./utility/comp_d.o \
+./utility/comp_e.o \
+./utility/crc.o \
+./utility/cs.o \
+./utility/dma.o \
+./utility/eusci_a_spi.o \
+./utility/eusci_a_uart.o \
+./utility/eusci_b_i2c.o \
+./utility/eusci_b_spi.o \
+./utility/flash.o \
+./utility/fram.o \
+./utility/gpio.o \
+./utility/mpu.o \
+./utility/mpy32.o \
+./utility/pmap.o \
+./utility/pmm.o \
+./utility/ram.o \
+./utility/ref.o \
+./utility/ref_a.o \
+./utility/rtc_a.o \
+./utility/rtc_b.o \
+./utility/sfr.o \
+./utility/sys.o \
+./utility/timer_a.o \
+./utility/timer_b.o \
+./utility/tlv.o \
+./utility/ucs.o \
+./utility/usci_a_spi.o \
+./utility/usci_a_uart.o \
+./utility/usci_b_i2c.o \
+./utility/usci_b_spi.o \
+./utility/wdt_a.o 
+
+C_DEPS += \
+./utility/adc10_b.d \
+./utility/adc12_a.d \
+./utility/adc12_b.d \
+./utility/aes256.d \
+./utility/comp_b.d \
+./utility/comp_d.d \
+./utility/comp_e.d \
+./utility/crc.d \
+./utility/cs.d \
+./utility/dma.d \
+./utility/eusci_a_spi.d \
+./utility/eusci_a_uart.d \
+./utility/eusci_b_i2c.d \
+./utility/eusci_b_spi.d \
+./utility/flash.d \
+./utility/fram.d \
+./utility/gpio.d \
+./utility/mpu.d \
+./utility/mpy32.d \
+./utility/pmap.d \
+./utility/pmm.d \
+./utility/ram.d \
+./utility/ref.d \
+./utility/ref_a.d \
+./utility/rtc_a.d \
+./utility/rtc_b.d \
+./utility/sfr.d \
+./utility/sys.d \
+./utility/timer_a.d \
+./utility/timer_b.d \
+./utility/tlv.d \
+./utility/ucs.d \
+./utility/usci_a_spi.d \
+./utility/usci_a_uart.d \
+./utility/usci_b_i2c.d \
+./utility/usci_b_spi.d \
+./utility/wdt_a.d 
+
+C_DEPS__QUOTED += \
+"utility/adc10_b.d" \
+"utility/adc12_a.d" \
+"utility/adc12_b.d" \
+"utility/aes256.d" \
+"utility/comp_b.d" \
+"utility/comp_d.d" \
+"utility/comp_e.d" \
+"utility/crc.d" \
+"utility/cs.d" \
+"utility/dma.d" \
+"utility/eusci_a_spi.d" \
+"utility/eusci_a_uart.d" \
+"utility/eusci_b_i2c.d" \
+"utility/eusci_b_spi.d" \
+"utility/flash.d" \
+"utility/fram.d" \
+"utility/gpio.d" \
+"utility/mpu.d" \
+"utility/mpy32.d" \
+"utility/pmap.d" \
+"utility/pmm.d" \
+"utility/ram.d" \
+"utility/ref.d" \
+"utility/ref_a.d" \
+"utility/rtc_a.d" \
+"utility/rtc_b.d" \
+"utility/sfr.d" \
+"utility/sys.d" \
+"utility/timer_a.d" \
+"utility/timer_b.d" \
+"utility/tlv.d" \
+"utility/ucs.d" \
+"utility/usci_a_spi.d" \
+"utility/usci_a_uart.d" \
+"utility/usci_b_i2c.d" \
+"utility/usci_b_spi.d" \
+"utility/wdt_a.d" 
+
+OBJS__QUOTED += \
+"utility/adc10_b.o" \
+"utility/adc12_a.o" \
+"utility/adc12_b.o" \
+"utility/aes256.o" \
+"utility/comp_b.o" \
+"utility/comp_d.o" \
+"utility/comp_e.o" \
+"utility/crc.o" \
+"utility/cs.o" \
+"utility/dma.o" \
+"utility/eusci_a_spi.o" \
+"utility/eusci_a_uart.o" \
+"utility/eusci_b_i2c.o" \
+"utility/eusci_b_spi.o" \
+"utility/flash.o" \
+"utility/fram.o" \
+"utility/gpio.o" \
+"utility/mpu.o" \
+"utility/mpy32.o" \
+"utility/pmap.o" \
+"utility/pmm.o" \
+"utility/ram.o" \
+"utility/ref.o" \
+"utility/ref_a.o" \
+"utility/rtc_a.o" \
+"utility/rtc_b.o" \
+"utility/sfr.o" \
+"utility/sys.o" \
+"utility/timer_a.o" \
+"utility/timer_b.o" \
+"utility/tlv.o" \
+"utility/ucs.o" \
+"utility/usci_a_spi.o" \
+"utility/usci_a_uart.o" \
+"utility/usci_b_i2c.o" \
+"utility/usci_b_spi.o" \
+"utility/wdt_a.o" 
+
+C_SRCS__QUOTED += \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc10_b.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc12_a.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/adc12_b.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/aes256.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_b.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_d.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/comp_e.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/crc.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/cs.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/dma.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_a_spi.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_a_uart.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_b_i2c.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/eusci_b_spi.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/flash.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/fram.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/gpio.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/mpu.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/mpy32.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/pmap.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/pmm.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ram.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ref.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ref_a.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/rtc_a.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/rtc_b.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/sfr.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/sys.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/timer_a.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/timer_b.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/tlv.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/ucs.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_a_spi.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_a_uart.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_b_i2c.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/usci_b_spi.c" \
+"/home/saurav/ti/energia-0101E0017/hardware/msp430/libraries/DriverLib/utility/wdt_a.c" 
+
+
